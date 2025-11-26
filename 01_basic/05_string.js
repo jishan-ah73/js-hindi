@@ -26,7 +26,4 @@ const url = "https://jokerjan.com/joker%20gam";
 console.log(url.replace('%20','-'));
 console.log(url.includes('joker'));
 
-console.log(game.split('-'))
-
-
-
+console.log(game.split('-'));
